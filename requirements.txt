@@ -1,0 +1,7 @@
+imageio[ffmpeg]
+pillow==9.5.0
+gymnasium
+imageio
+numpy
+mlx
+mlx-lm
