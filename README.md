@@ -6,6 +6,7 @@ An Apple Silicon implementation of the classic Atari 2600 game, Breakout, using 
 
 - ASCII-based representation of the classic Breakout game.
 - Integration with language models to interpret game states and generate actions.
+- Reduce memory footprint from ~9Gb to ~6Gb (33% reduction) when using Llama 3.2 3B!
 - Performance of Llama 3.2 3B.
 
 ## Performance
