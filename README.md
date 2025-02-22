@@ -1,6 +1,6 @@
 # ASCII Breakout MLX
 
-An Apple Silicon implementation of the classic Atari 2600 game, Breakout, using ASCII characters using mlx and. This project explores how language models interpret ASCII representations of game states to generate viable gameplay actions. Inspired by [Atari-GPT](https://arxiv.org/abs/2408.15950), this approach utilizes ASCII art instead of graphical frames to represent the game state.
+An Apple Silicon implementation of the classic Atari 2600 game, Breakout, using ASCII characters using mlx-lm. This project explores how language models interpret ASCII representations of game states to generate viable gameplay actions. Inspired by [Atari-GPT](https://arxiv.org/abs/2408.15950), this approach utilizes ASCII art instead of graphical frames to represent the game state.
 
 ## Features
 
