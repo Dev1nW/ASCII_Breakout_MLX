@@ -1,5 +1,5 @@
 imageio[ffmpeg]
-pillow==9.5.0
+pillow==10.3.0
 gymnasium
 imageio
 numpy
